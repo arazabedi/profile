@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 970 250" width="970" height="250">
+	<title>template</title>
+	<defs>
+		<image  width="970" height="250" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8oAAAD6AQMAAABDMyxHAAAAAXNSR0IB2cksfwAAAANQTFRF+uPjU3nYMQAAADVJREFUeJztwTEBAAAAwqD1T20Gf6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDPAHgeAAHFxdCbAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 108px;fill: #000000;font-weight: 400;font-family: "ZenKurenaido-Regular", "Zen Kurenaido" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="&lt;&gt;Araz&lt;/&gt;" style="transform: matrix(1.949,0,0,1.949,485,205.357)" >
+		<tspan x="-253.8" y="0" class="t0">&lt;</tspan><tspan  y="0" class="t0">&gt;</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">z</tspan><tspan  y="0" class="t0">&lt;</tspan><tspan  y="0" class="t0">/</tspan><tspan  y="0" class="t0">&gt;</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>
